@@ -1,7 +1,4 @@
 
-# pokedex_trees_student.py
-# Ejercicio 1 - Árboles para Pokémons (versión alumno intermedio)
-
 from dataclasses import dataclass
 from typing import List, Optional
 from collections import deque
