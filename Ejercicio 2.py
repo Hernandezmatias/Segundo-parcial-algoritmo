@@ -1,6 +1,4 @@
 
-# starwars_graph_student.py
-# Ejercicio 2 - Grafo con personajes Star Wars (nivel alumno intermedio)
 
 from dataclasses import dataclass
 from typing import Dict, Set, List, Tuple
